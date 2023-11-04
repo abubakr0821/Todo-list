@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100%;
+    box-sizing: border-box;
+    height: 100vh;
+    overflow: hidden;
+    background-image: linear-gradient(to right bottom, #581e3f, #683c60, #765a7f, #84799c, #9597b7, #8da5cb, #7fb4da, #6dc4e4, #00c8d5, #00c8aa, #24c26b, #76b70d);    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    
+}
+
+.container{
+    width: 1000px;
+    height: 600px;
+    background-color: #e6fff7;
+    border-radius: 15px;
+    padding: 25px;
+
+}
+
+.pusto {
+    margin-top: 20px;
+    height: 260px;
+}
+.kones{
+    text-align: right;
+}
+.razmer{
+    width: 350px;
+}
+.navbar{
+    width: 900px;
+}
+.plus{
+    width: 100px;
+}
+
+
